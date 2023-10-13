@@ -1,5 +1,5 @@
 pais= "brasil"
-pais=644
+pais=555
 type(pais)
 pais=7.9
 type(pais)

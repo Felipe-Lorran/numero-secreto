@@ -2,7 +2,8 @@ print("******************************")
 print("bem vindo ao jogo de adivinhar")
 print("******************************")
  
-numero_secreto = 70
+numero_secreto = 50
+
 
 chut_str = input("digite um numero")
 print("voce digitou", chut_str)
